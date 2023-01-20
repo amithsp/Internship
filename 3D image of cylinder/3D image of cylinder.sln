@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "3D image of cylinder", "3D image of cylinder\3D image of cylinder.pyproj", "{A435043D-DEA5-461A-A59E-F8B6E95618AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A435043D-DEA5-461A-A59E-F8B6E95618AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A435043D-DEA5-461A-A59E-F8B6E95618AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01DC81F-7E90-4AAE-9287-398564B6B88A}
+	EndGlobalSection
+EndGlobal
